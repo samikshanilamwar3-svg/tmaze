@@ -1,0 +1,11 @@
+node_modules
+dist
+build
+.git
+.env
+*.log
+README.md
+database
+Kubernetes
+Jenkinsfile
+pipeline.txt
